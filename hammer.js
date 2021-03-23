@@ -16,9 +16,6 @@ display(){
     rectMode(CENTRE);
     fill('red');
     rect(0,0,this.width,this.height);
-    
-
-
 }
 }
 

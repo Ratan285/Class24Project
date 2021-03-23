@@ -20,7 +20,6 @@ function setup() {
 
 	hammer1 = new Hammer(0,0,20,20)
 
-
 	Engine.run(engine);
   
 }
@@ -31,8 +30,7 @@ function draw() {
   background(0);
   
   hammer1.display();
-
-
+  
   drawSprites();
  
 }
